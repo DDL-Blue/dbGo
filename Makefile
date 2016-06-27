@@ -1,5 +1,5 @@
-CXX=g++-6
-LD=g++-6
+CXX=g++
+LD=g++
 CXXFLAGS= -std=c++11 -Wall -pedantic -Wextra -g -Wno-long-long -O3
 PROGRAM=go
 LIBS=-lncurses -lpthread -lrt
